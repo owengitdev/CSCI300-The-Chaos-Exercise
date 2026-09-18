@@ -47,4 +47,6 @@ document.addEventListener('DOMContentLoaded', function() {
     renderTasks();
     
     // TODO
+    let taskIteminnerHTML = 'Hello';
+
 });
